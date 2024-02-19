@@ -1,7 +1,6 @@
 # Vítor Viasdeski Monteiro
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/
-vitorviasdeskimonteiro
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/vitorviasdeskimonteiro
 )
 
 ## Sobre mim
@@ -11,8 +10,7 @@ Olá! Sou apaixonado por resolver problemas complexos, ou não, através da tecn
 - 🔭 Atualmente estou trabalhando em projetos pessoais e aprimorando minhas habilidades em busca do meu primeiro emprego com foco em desenvolvimento ou afins.
 - 🌱 Estou constantemente aprendendo e explorando novas tecnologias.
 - 💬 Pergunte-me sobre Desenvolvimento Web, Desenvolvimento Back-End, Engenharia de Software, Ciência de Dados e Inteligência Artificial.
-- 📫 Como me contatar: (www.linkedin.com/in/
-vitorviasdeskimonteiro)
+- 📫 Como me contatar: (www.linkedin.com/in/vitorviasdeskimonteiro)
 
 
 ## Habilidades
